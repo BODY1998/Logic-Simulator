@@ -1,0 +1,3 @@
+﻿  Gate.cpp
+D:\Software\C++\Logic simulator\Gate.cpp(74): warning C4715: 'Gate::simulateGate': not all control paths return a value
+  Logic simulator.vcxproj -> D:\Software\C++\Logic simulator\x64\Debug\Logic simulator.exe
